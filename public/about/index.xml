@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Welcome to my Cybersecurity Blog</title>
+    <link>https://rb-x.github.io/about/</link>
+    <description>Recent content in Abouts on Welcome to my Cybersecurity Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Riadh Bouchahoua - CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 15 Jun 2020 18:15:48 +0200</lastBuildDate>
+    
+	<atom:link href="https://rb-x.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>whoami</title>
+      <link>https://rb-x.github.io/about/whoami/</link>
+      <pubDate>Mon, 15 Jun 2020 18:15:48 +0200</pubDate>
+      
+      <guid>https://rb-x.github.io/about/whoami/</guid>
+      <description>My name is Riadh, I&amp;rsquo;m a French student in my second year of computer science who has been passionate about computers since I was a child. I started with Web Development since college, I&amp;rsquo;m a Fullstack Javascript developer and I have a strong interest in computer security and automation.
+You will find in this blog my CTF challenge writings on different platforms, my covers as well as tutorials on various tools.</description>
+    </item>
+    
+  </channel>
+</rss>
